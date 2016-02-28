@@ -1,0 +1,26 @@
+_repo: Report-on-the-Condition-of-the-South_8872
+creator:
+  author:
+    agent_name: Schurz, Carl
+    alias: Schurz, C. (Carl)
+    birthdate: 1829
+    deathdate: 1906
+    gutenberg_agent_id: '2909'
+    url: http://www.gutenberg.org/2009/agents/2909
+    wikipedia: http://en.wikipedia.org/wiki/Carl_Schurz
+description: ''
+gutenberg_issued: '2005-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8872'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Freedmen'
+- !lcc 'E660'
+- !lcsh 'Reconstruction (U.S. history, 1865-1877)'
+- !lcsh 'Southern States -- Politics and government -- 1865-1950'
+title: Report on the Condition of the South
+url: http://www.gutenberg.org/ebooks/8872
